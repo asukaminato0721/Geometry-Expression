@@ -12,8 +12,12 @@
 
 - 在线体验 https://geometryexpressions.com/gxweb/
 
-> http://www.sousou88.com/software/2076778.html 某软件站发现的 3.4 ，未验证，谨慎尝试
+> http://www.sousou88.com/software/2076778.html 某软件站发现的 3.4
+>
+> 群友指出是李鬼
+>
+>  > 是骗人的，前天官网申请试用发的链接显示还是3.3。以前见过别的软件用过类似套路，让人误以为他们有更新版本，好收割流量
 
 > QQ 群 822606694
 
-有问题欢迎 PR || issue
+有问题欢迎 PR , issue
