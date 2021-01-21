@@ -2,17 +2,19 @@
 
 > 能找到这个站，说明你肯定很了解这个软件，所以不写介绍了 ~~懒~~
 
-- 官网 https://geometryexpressions.com/
+- 官网 <https://geometryexpressions.com/>
 
 - 软件安装包都在仓库里，3.3.11 的中文包翻译有点不好，替换的语言包也在仓库里
 
-- feature https://geometryexpressions.com/gx/features.html
+- > 假如无法从仓库下载安装包，这里是 [Sharepoint 下载地址](https://wuyudi-my.sharepoint.com/:f:/g/personal/wuyudi_wuyudi_onmicrosoft_com/ErIWgiOytddNpxqLPxhTYjIBVaHLKF47R7VutKWvhiWFPw?e=O2w9he)
 
-- 和 Mathematica 的联动 https://www.wolfram.com/products/applications/geometryexpressions/
+- feature <https://geometryexpressions.com/gx/features.html>
 
-- 在线体验 https://geometryexpressions.com/gxweb/
+- 和 Mathematica 的联动 <https://www.wolfram.com/products/applications/geometryexpressions/>
 
-> http://www.sousou88.com/software/2076778.html 某软件站发现的 3.4
+- 在线体验 <https://geometryexpressions.com/gxweb/>
+
+> <http://www.sousou88.com/software/2076778.html> 某软件站发现的 3.4
 >
 > 群友指出是李鬼
 >
