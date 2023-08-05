@@ -1,3 +1,7 @@
+---
+redirect_to: "https://geometryexpressions.pages.dev/"
+---
+
 # 几何表达式安装指南
 
 ## 相关链接
