@@ -16,8 +16,6 @@
 
 - 软件安装包都在仓库里，3.3.11 的中文包翻译有点不好，替换的语言包也在仓库里
 
-- 假如无法从仓库下载安装包，这里是 [Sharepoint 下载地址](https://wuyudi-my.sharepoint.com/:f:/g/personal/wuyudi_wuyudi_onmicrosoft_com/ErIWgiOytddNpxqLPxhTYjIBVaHLKF47R7VutKWvhiWFPw?e=O2w9he)
-
 ## 备注
 
 > <http://www.sousou88.com/software/2076778.html> 某软件站发现的 3.4
