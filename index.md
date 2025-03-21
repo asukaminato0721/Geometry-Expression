@@ -19,7 +19,8 @@ redirect_to: "https://geometryexpressions.pages.dev/"
 ## 软件下载
 
 - 软件安装包都在仓库里，3.3.11 的中文包翻译有点不好，替换的语言包也在仓库里
-- 3.4 版本暂时无人解决，安装包在 release 里面，md5sum `c7c2e9a85b98559a55810403fd232395  GEv3_4_SP1_setup.exe`
+- ~~3.4 版本暂时无人解决，安装包在 release 里面，md5sum `c7c2e9a85b98559a55810403fd232395  GEv3_4_SP1_setup.exe`~~
+- 3.4 版在 <https://github.com/asukaminato0721/Geometry-Expression/releases/tag/v0.0.2>
 
 ## 如何更换成 TeX 的字体
 
